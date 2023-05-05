@@ -1,5 +1,5 @@
-# Scrap-tools-ltd
-live-site-link: [scrap-tools-ltd](https://scrap-tools-ltd.web.app/).
+# GPU TECH LTD
+live-site-link: [GPU-TECH-LTD](https://scrap-tools-ltd.web.app/).
 # website feature:
 * It is based on a work tool manufacture comapny of working tool who sell online based hammer,plier,paintroller etc.
 * There is a products section about the available product that customer can order.
